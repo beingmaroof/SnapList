@@ -1,0 +1,71 @@
+{
+  "todoList": [
+    {
+      "text": "Complete project documentation",
+      "date": "2025-10-26",
+      "time": "14:30",
+      "done": false,
+      "steps": [
+        {
+          "id": 1698327000000,
+          "text": "Write user guides",
+          "done": true
+        },
+        {
+          "id": 1698327000001,
+          "text": "Create feature summary",
+          "done": true
+        },
+        {
+          "id": 1698327000002,
+          "text": "Final review",
+          "done": false
+        }
+      ],
+      "priority": "high",
+      "dueDate": "2025-10-30",
+      "category": null,
+      "tags": ["documentation", "project"]
+    },
+    {
+      "text": "Buy groceries",
+      "date": "2025-10-25",
+      "time": "09:15",
+      "done": false,
+      "steps": [],
+      "priority": "medium",
+      "dueDate": "2025-10-27",
+      "category": null,
+      "tags": ["shopping", "food"]
+    }
+  ],
+  "shoppingList": [
+    {
+      "text": "Apples",
+      "date": "2025-10-25",
+      "time": "09:15",
+      "done": true,
+      "steps": [],
+      "priority": "low",
+      "dueDate": null,
+      "category": null,
+      "tags": ["fruit"]
+    },
+    {
+      "text": "Milk",
+      "date": "2025-10-25",
+      "time": "09:16",
+      "done": false,
+      "steps": [],
+      "priority": "medium",
+      "dueDate": null,
+      "category": null,
+      "tags": ["dairy"]
+    }
+  ],
+  "categories": [],
+  "sortPreferences": {
+    "sortBy": "date",
+    "sortOrder": "asc"
+  }
+}
